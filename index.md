@@ -64,4 +64,4 @@ Here, you will find a non-exhaustive list of projects/organisation that I really
  - [Slack](https://slack.com) because this is **the best place to chat at this time**.
 
 
-See the stars on Github to ;)
+See the stars on Github for more useful projects ;)
