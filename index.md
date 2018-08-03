@@ -50,7 +50,7 @@ Here, you will find a non-exhaustive list of projects/organisation that I really
  - [The Linux Foundation](https://www.linuxfoundation.org/) and [The Open Source Initiative](https://opensource.org/)
    because **sharing knowledge is vital**!
  - [SignalSpam](https://www.signal-spam.fr/) because **everyone can fight spam**.
- - [Python](https://www.python.org/) because **simple** feels good.
+ - [Python](https://www.python.org/) because **simplicity** feels good.
  - [C++](https://isocpp.org/) because **complicated** can be useful.
  - [Root-Me](https://root-me.org) and [Hack The Box](https://www.hackthebox.eu/) because **hacking requires creativity
    and determination**.
