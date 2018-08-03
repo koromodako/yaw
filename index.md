@@ -55,7 +55,7 @@ Here, you will find a non-exhaustive list of projects/organisation that I really
  - [Root-Me](https://root-me.org) and [Hack The Box](https://www.hackthebox.eu/) because **hacking requires creativity
    and determination**.
  - [readthedocs.org](https://readthedocs.org/) because **documenting is not an option** (even if it can be tough).
- - [The Tor Project](https://www.torproject.org/) because **privacy** should not be neglected.
+ - [The Tor Project](https://www.torproject.org/) because **privacy should not be neglected**.
  - [DuckDuckGo](https://duckduckgo.com/) and [Qwant](https://qwant.com/) because **browsing is money** and **trackers
    are everywhere**.
  - [uBlock](https://github.com/gorhill/uBlock) because **ads are plaguing the Internet** (_an ad is not the only way to
