@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+## HelloWorld!
 
-You can use the [editor on GitHub](https://github.com/pdautry/helloworld/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the only virtual space where I will share some ideas and opinions about software engineering,
+cyber-security (and philosophy maybe)! It can be considered as an informal/incomplete CV.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Why a repo called _helloworld_ ? A lack of imagination or some sort of nostalgia when I remember the first program I wrote ^^'
 
-### Markdown
+### Engineering school projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some of INSA projects:
 
-```markdown
-Syntax highlighted code block
+ - [INSA-4IF-Raspberry-OS](https://github.com/pdautry/INSA-4IF-Raspberry-OS) is an implementation of a basic OS for RaspberryPi.
+ - [INSA-4IF-Prolog-Abalone](https://github.com/pdautry/INSA-4IF-Prolog-Abalone) is an implementation of Abalone game in Prolog with an AI.
+ - [INSA-4IF-Lutin-Interpreter](https://github.com/pdautry/INSA-4IF-Lutin-Interpreter) is an implementation of a basic language interpreter.
 
-# Header 1
-## Header 2
-### Header 3
+Some of UCD projects:
 
-- Bulleted
-- List
+ - [UCD-5IF-AI-Yavalath](https://github.com/pdautry/UCD-5IF-AI-Yavalath) is an implementation of Yavalath game with an IA.
+ - [UCD-5IF-PACC-MatrixMultOpenMPI](https://github.com/pdautry/UCD-5IF-PACC-MatrixMultOpenMPI) is an implementation of matrix multiplication using OpenMPI.
 
-1. Numbered
-2. List
+### Creations
 
-**Bold** and _Italic_ and `Code` text
+The Qt-based program called [Picsou](https://github.com/pdautry/picsou) helps keep track of expenses.
+It's not beautiful but it's useful.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[mkCTF](https://github.com/pdautry/mkctf) is framework to enable efficient team work when preparing challenges for a CTF.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pdautry/helloworld/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Datashark](https://github.com/pdautry/datashark) is an evolution of the [PoC](https://github.com/pdautry/datashark-poc).
+It was designed to automatise the extraction of valuable information from any file whose type is known or has be reversed.
 
-### Support or Contact
+### Contributions
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contributing to INShAck Capture The Flag by making challenges for people around the world is a great hobby.
+Here are the repositories for past editions:
+
+ - [INShAck 2018](https://github.com/InsecurityAsso/inshack-2018)
+ - [INShAck 2017](https://github.com/InsecurityAsso/inshack-2017)
+ - [INShAck 2016](https://github.com/InsecurityAsso/inshack-2016)
+
+
+[MapIF](https://github.com/LoicTouzard/mapif) is a website created to keep track of engineering school friends after we
+graduated. Precision is voluntarily limited to the city level to preserve privacy.
+
+### Interesting Projects
+
+Here, you will find a non-exhaustive list of projects/organisation that I really appreciate.
+
+ - [The Linux Foundation](https://www.linuxfoundation.org/) and [The Open Source Initiative](https://opensource.org/)
+   because **sharing knowledge is vital**!
+ - [SignalSpam](https://www.signal-spam.fr/) because **everyone can fight spam**.
+ - [Python](https://www.python.org/) because **simple** feels good.
+ - [C++](https://isocpp.org/) because **complicated** can be useful.
+ - [Root-Me](https://root-me.org) and [Hack The Box](https://www.hackthebox.eu/) because **hacking requires creativity
+   and determination**.
+ - [readthedocs.org](https://readthedocs.org/) because **documenting is not an option** (even if it can be tough).
+ - [The Tor Project](https://www.torproject.org/) because **privacy** should not be neglected.
+ - [DuckDuckGo](https://duckduckgo.com/) and [Qwant](https://qwant.com/) because **browsing is money** and **trackers
+   are everywhere**.
+ - [uBlock](https://github.com/gorhill/uBlock) because **ads are plaguing the Internet** (_an ad is not the only way to
+   make money in this world_).
+ - [HaveIBeenPwned](https://haveibeenpwned.com/) because **I just want to know if something bad happens**.
+ - [Slack](https://slack.com) because this is **the best place to chat at this time**.
+
+
+See the stars on Github to ;)
