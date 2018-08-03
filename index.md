@@ -1,7 +1,7 @@
 ## HelloWorld!
 
 This is the only virtual space where I will share some ideas and opinions about software engineering,
-cyber-security (and philosophy maybe)! It can be considered as an informal/incomplete CV.
+cyber-security (and philosophy maybe)!
 
 Why a repo called _helloworld_ ? A lack of imagination or some sort of nostalgia when I remember the first program I wrote ^^'
 
@@ -28,7 +28,7 @@ It's not beautiful but it's useful.
 
 
 [Datashark](https://github.com/pdautry/datashark) is an evolution of the [PoC](https://github.com/pdautry/datashark-poc).
-It was designed to automatise the extraction of valuable information from any file whose type is known or has be reversed.
+It was designed to automatise the extraction of valuable information from any file whose type is known or has be reversed. It's not ready yet.
 
 ### Contributions
 
