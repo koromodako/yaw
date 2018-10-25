@@ -54,14 +54,15 @@ Here, you will find a non-exhaustive list of projects/organisation that I really
  - [C++](https://isocpp.org/) because **complicated** can be useful.
  - [Root-Me](https://root-me.org) and [Hack The Box](https://www.hackthebox.eu/) because **hacking requires creativity
    and determination**.
- - [readthedocs.org](https://readthedocs.org/) because **documenting is not an option** (even if it can be tough).
+ - [readthedocs.org](https://readthedocs.org/) and [Sphinx](http://www.sphinx-doc.org/en/stable/) because **documenting
+   is not an option** (even if it can be tough sometimes).
  - [The Tor Project](https://www.torproject.org/) because **privacy should not be neglected**.
  - [DuckDuckGo](https://duckduckgo.com/) and [Qwant](https://qwant.com/) because **browsing is money** and **trackers
    are everywhere**.
  - [uBlock](https://github.com/gorhill/uBlock) because **ads are plaguing the Internet** (_an ad is not the only way to
    make money in this world_).
  - [HaveIBeenPwned](https://haveibeenpwned.com/) because **I just want to know if something bad happens**.
- - [Slack](https://slack.com) because this is **the best place to chat at this time**.
+ - [Slack](https://slack.com) because this is **the best place to chat at the time of writing**.
+ - [OpenAPIv3](https://github.com/OAI/OpenAPI-Specification) because **boring task are meant to be automated**.
 
-
-See the stars on Github for more useful projects ;)
+And [many others](https://github.com/pdautry?tab=stars).
