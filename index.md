@@ -9,25 +9,25 @@ Why a repo called _helloworld_ ? A lack of imagination or some sort of nostalgia
 
 Some of INSA projects:
 
- - [INSA-4IF-Raspberry-OS](https://github.com/pdautry/INSA-4IF-Raspberry-OS) is an implementation of a basic OS for RaspberryPi.
- - [INSA-4IF-Prolog-Abalone](https://github.com/pdautry/INSA-4IF-Prolog-Abalone) is an implementation of Abalone game in Prolog with an AI.
- - [INSA-4IF-Lutin-Interpreter](https://github.com/pdautry/INSA-4IF-Lutin-Interpreter) is an implementation of a basic language interpreter.
+ - [INSA-4IF-Raspberry-OS](https://github.com/koromodako/INSA-4IF-Raspberry-OS) is an implementation of a basic OS for RaspberryPi.
+ - [INSA-4IF-Prolog-Abalone](https://github.com/koromodako/INSA-4IF-Prolog-Abalone) is an implementation of Abalone game in Prolog with an AI.
+ - [INSA-4IF-Lutin-Interpreter](https://github.com/koromodako/INSA-4IF-Lutin-Interpreter) is an implementation of a basic language interpreter.
 
 Some of UCD projects:
 
- - [UCD-5IF-AI-Yavalath](https://github.com/pdautry/UCD-5IF-AI-Yavalath) is an implementation of Yavalath game with an IA.
- - [UCD-5IF-PACC-MatrixMultOpenMPI](https://github.com/pdautry/UCD-5IF-PACC-MatrixMultOpenMPI) is an implementation of matrix multiplication using OpenMPI.
+ - [UCD-5IF-AI-Yavalath](https://github.com/koromodako/UCD-5IF-AI-Yavalath) is an implementation of Yavalath game with an IA.
+ - [UCD-5IF-PACC-MatrixMultOpenMPI](https://github.com/koromodako/UCD-5IF-PACC-MatrixMultOpenMPI) is an implementation of matrix multiplication using OpenMPI.
 
 ### Creations
 
-The Qt-based program called [Picsou](https://github.com/pdautry/picsou) helps keep track of expenses.
+The Qt-based program called [Picsou](https://github.com/koromodako/picsou) helps keep track of expenses.
 It's not beautiful but it's useful.
 
 
-[mkCTF](https://github.com/pdautry/mkctf) is framework to enable efficient team work when preparing challenges for a CTF.
+[mkCTF](https://github.com/koromodako/mkctf) is framework to enable efficient team work when preparing challenges for a CTF.
 
 
-[Datashark](https://github.com/pdautry/datashark) is an evolution of the [PoC](https://github.com/pdautry/datashark-poc).
+[Datashark](https://github.com/koromodako/datashark) is an evolution of the [PoC](https://github.com/koromodako/datashark-poc).
 It was designed to automatise the extraction of valuable information from any file whose type is known or has be reversed. It's not ready yet.
 
 ### Contributions
@@ -62,7 +62,7 @@ Here, you will find a non-exhaustive list of projects/organisation that I really
  - [uBlock](https://github.com/gorhill/uBlock) because **ads are plaguing the Internet** (_an ad is not the only way to
    make money in this world_).
  - [HaveIBeenPwned](https://haveibeenpwned.com/) because **I just want to know if something bad happens**.
- - [Slack](https://slack.com) because this is **the best place to chat at the time of writing**.
- - [OpenAPIv3](https://github.com/OAI/OpenAPI-Specification) because **boring task are meant to be automated**.
+ - [Zulip](https://zulipchat.com/) because this is **the best place to chat at the time of writing**.
+ - [OpenAPIv3](https://github.com/OAI/OpenAPI-Specification) because **boring tasks are meant to be automated**.
 
-And [many others](https://github.com/pdautry?tab=stars).
+And [many others](https://github.com/koromodako?tab=stars).
