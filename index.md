@@ -21,20 +21,21 @@ Some of UCD projects:
 ### Creations
 
 The Qt-based program called [Picsou](https://github.com/koromodako/picsou) helps keep track of expenses.
-It's not beautiful but it's useful.
+It's not beautiful and but it's useful.
 
 
 [mkCTF](https://github.com/koromodako/mkctf) is framework to enable efficient team work when preparing challenges for a CTF.
 
 
 [Datashark](https://github.com/koromodako/datashark) is an evolution of the [PoC](https://github.com/koromodako/datashark-poc).
-It was designed to automatise the extraction of valuable information from any file whose type is known or has be reversed. It's not ready yet.
+It was designed to automatise the extraction of valuable information from any file whose type is known or has already been reversed. Work is in progress and I do not have a lot of free time to spend on this at the moment.
 
 ### Contributions
 
 Contributing to INShAck Capture The Flag by making challenges for people around the world is a great hobby.
 Here are the repositories for past editions:
 
+ - [INShAck 2019](https://ctftime.org/event/763)
  - [INShAck 2018](https://github.com/InsecurityAsso/inshack-2018)
  - [INShAck 2017](https://github.com/InsecurityAsso/inshack-2017)
  - [INShAck 2016](https://github.com/InsecurityAsso/inshack-2016)
