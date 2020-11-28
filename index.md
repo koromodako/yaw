@@ -63,5 +63,8 @@ Here, you will find a non-exhaustive list of projects/organisations that I reall
    [Ansible](https://docs.ansible.com/),
    [Docker](https://www.docker.com/),
    and [Packer](https://packer.io/) because **boring tasks are meant to be automated**.
+ - [Grafana](https://github.com/grafana/grafana), 
+   [Prometheus](https://github.com/prometheus/prometheus) 
+   and [ELK](https://www.elastic.co/what-is/elk-stack)  for an **accessible and painless monitoring**.
 
 And [many others](https://github.com/koromodako?tab=stars).
