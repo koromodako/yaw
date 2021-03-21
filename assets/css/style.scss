@@ -1,18 +1,14 @@
 ---
 ---
-$background-color: #0d1117;
-$strong-color: #919191;
+$dark-color: #0d1117;
+$light-color: #919191;
 
-body {
-  background: $background-color!important;
+html, body {
+  background: $dark-color!important;
 }
 
-html {
-  background: $background-color!important;
-}
-
-strong {
-  color: $strong-color!important;
+h1, h2, h3, h4 {
+  color: $light-color!important;
 }
 
 @import "{{ site.theme }}";
