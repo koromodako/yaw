@@ -4,15 +4,15 @@ $background-color: #0d1117;
 $strong-color: #919191;
 
 body {
-  background: $background-color;
+  background: $background-color!important;
 }
 
 html {
-  background: $background-color;
+  background: $background-color!important;
 }
 
 strong {
-  color: $strong-color;
+  color: $strong-color!important;
 }
 
 @import "{{ site.theme }}";
