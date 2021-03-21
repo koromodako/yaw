@@ -1,5 +1,16 @@
 ---
 ---
+body {
+  background: $background-color;
+}
+
+html {
+  background: $background-color;
+}
+
+strong {
+  color: $strong-color;
+}
 
 @import "{{ site.theme }}";
 
@@ -16,15 +27,3 @@ section {
 
 $background-color: #0d1117;
 $strong-color: #919191;
-
-body {
-  background: $background-color!important;
-}
-
-html {
-  background: $background-color!important;
-}
-
-strong {
-  color: $strong-color!important;
-}
