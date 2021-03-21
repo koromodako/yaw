@@ -2,6 +2,8 @@
 
 This is the only virtual space where I will share some opinions about software engineering, cybersecurity (and philosophy maybe)!
 
+
+---
 ### Contributions
 
 * Volatility Framework code migration (Python 2 to Python 3) available [here](https://github.com/koromodako/volatility).
@@ -17,17 +19,22 @@ This is the only virtual space where I will share some opinions about software e
 * Now retired [MapIF](https://github.com/LoicTouzard/mapif) was a funny website created to keep track of engineering school 
   friends after we graduated. Precision was voluntarily limited to the city scale to preserve privacy.
 
+
+---
 ### Creations
 
-* [mkCTF](https://github.com/koromodako/mkctf) is framework to enable efficient team work when preparing challenges for a CTF.
+* [mkCTF](https://github.com/koromodako/mkctf): a framework to enable efficient team work when preparing challenges for a CTF.
 
-* [Datashark](https://github.com/koromodako/datashark) is an evolution of the [PoC](https://github.com/koromodako/datashark-poc).
+* [hbsrecover](https://github.com/koromodako/hbsrecover): a tool to recover encrypted files backed up using _QNAP Hybrid Backup Sync_.
+
+* [Datashark](https://github.com/koromodako/datashark): an evolution of the [PoC](https://github.com/koromodako/datashark-poc).
   It was designed to automatise the extraction of valuable information from any file whose type is known or has already been reversed. 
   Work is in progress and I do not have a lot of free time to spend on this at the moment.
 
-* A Qt-based program called [Picsou](https://github.com/koromodako/picsou) that helps me keep track of expenses.
-  It's not beautiful and but it's useful.
+* [Picsou](https://github.com/koromodako/picsou): a Qt-based program that helps me keep track of expenses. It's not beautiful and but it's useful.
 
+
+---
 ### Engineering school projects
 
 Some of INSA projects:
@@ -42,6 +49,7 @@ Some of UCD projects:
  * [UCD-5IF-PACC-MatrixMultOpenMPI](https://github.com/koromodako/UCD-5IF-PACC-MatrixMultOpenMPI) is an implementation of matrix multiplication using OpenMPI.
 
 
+---
 ### Must-see Projects
 
 Here, you will find a non-exhaustive list of projects/organisations that I really appreciate:
