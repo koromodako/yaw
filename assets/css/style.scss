@@ -23,3 +23,19 @@ section {
   float: right;
   padding-bottom: 50px;
 }
+
+.highlight {
+  background-color: #0d1117;
+}
+
+pre {
+  padding: 8px 15px;
+  border-radius: 5px;
+  border: 1px solid #a8a8a8;
+  overflow-x: auto;
+}
+
+code, pre {
+    font-family: Consolas;
+    color: #a8a8a8;
+}
