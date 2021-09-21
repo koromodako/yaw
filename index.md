@@ -67,3 +67,22 @@ Here, you will find a non-exhaustive list of projects/organisations that I reall
  * [Grafana](https://github.com/grafana/grafana), [Prometheus](https://github.com/prometheus/prometheus), and [ELK](https://www.elastic.co/what-is/elk-stack) for **accessible and painless monitoring**.
 
 And [many others](https://github.com/koromodako?tab=stars).
+
+---
+### Contact
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEYUo8XxYJKwYBBAHaRw8BAQdASkCtzQDnyFiqI4HirKxIVc8MqbQebqvd18dQ
+Q8aC9lC0IWtvcm9tb2Rha28gPGtvcm9tb2Rha29AZ21haWwuY29tPoiWBBMWCAA+
+FiEEIcggU2aShIAhGOku5A89rsBUIMgFAmFKPF8CGwMFCQlmAYAFCwkIBwIGFQoJ
+CAsCBBYCAwECHgECF4AACgkQ5A89rsBUIMhagAD/dJKxLp1zwvqS7OzYzHMw85Yj
+AYvjV2rVPlPR62kVBOsA/AkIfK+5mnJ33+x4OqDGT7aL5UQzqD3h42PHkbEo5k8I
+uDgEYUo8XxIKKwYBBAGXVQEFAQEHQIL6nb1uJvDz/onhfgmPCbpXaNdSFzNjNa0J
+Gx1Vpk14AwEIB4h+BBgWCAAmFiEEIcggU2aShIAhGOku5A89rsBUIMgFAmFKPF8C
+GwwFCQlmAYAACgkQ5A89rsBUIMiiXAEA/CI3wsxhDp6DMwxpT0QJsUq5JivNJk2R
+zpzq+e/s9rUBALO8sJHQPtemqI28SlO71FjaerWkbR6M2/44d2eW8gYK
+=huxS
+-----END PGP PUBLIC KEY BLOCK-----
+```
