@@ -1,17 +1,17 @@
 ---
 ---
+@import "{{ site.theme }}";
+
 $dark-color: #0d1117;
 $light-color: #919191;
 
 html, body {
-  background: $dark-color!important;
+  background: $dark-color;
 }
 
 h1, h2, h3, h4, h5, h6, strong {
-  color: $light-color!important;
+  color: $light-color;
 }
-
-@import "{{ site.theme }}";
 
 .wrapper {
   width: 1000px;
@@ -25,17 +25,17 @@ section {
 }
 
 .highlight {
-  background-color: #0d1117;
+  background-color: $dark-color;
 }
 
 pre {
   padding: 8px 15px;
   border-radius: 5px;
-  border: 1px solid #a8a8a8;
+  border: 1px solid $light-color;
   overflow-x: auto;
 }
 
 code, pre {
     font-family: Consolas;
-    color: #a8a8a8;
+    color: $light-color;
 }
