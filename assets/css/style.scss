@@ -5,36 +5,64 @@
 $dark-color: #0d1117;
 $light-color: #919191;
 
+/* https://docs.microsoft.com/en-us/windows/apps/design/layout/screen-sizes-and-breakpoints-for-responsive-design */
+/* Medium Screen - 641 to 1007 screen size */
+$md-screen-size: 1007px;
+/* Small Screen - 640 or less screen size */
+$sm-screen-size: 640px;
+
+@mixin md-screen{
+    @media only screen and (max-width: $md-screen-size) {
+        @content;
+    }
+}
+@mixin sm-screen{
+    @media only screen and (max-width: $sm-screen-size) {
+        @content;
+    }
+}
+
+/* Dark themed elements */
 html, body {
   background: $dark-color;
 }
-
 h1, h2, h3, h4, h5, h6, strong {
   color: $light-color;
 }
-
-.wrapper {
-  width: 1000px;
-  margin: 0 auto;
-}
-
-section {
-  width: 700px;
-  padding-bottom: 50px;
-}
-
 .highlight {
   background-color: $dark-color;
 }
-
 pre {
   padding: 8px 15px;
   border-radius: 5px;
   border: 1px solid $light-color;
   overflow-x: auto;
 }
-
 code, pre {
     font-family: Consolas;
     color: $light-color;
+}
+/* positioning */
+.wrapper {
+  margin: 0 auto;
+  max-width: 1280px;
+  
+  @include md-screen{
+    max-width: 720px;
+  }  
+  @include sm-screen{
+    max-width: 360px;
+  }  
+}
+
+section {
+  padding-bottom: 50px;
+  max-width: 1200px;
+  
+  @include md-screen{
+    max-width: 700px;
+  }  
+  @include sm-screen{
+    max-width: 300px;
+  }  
 }
