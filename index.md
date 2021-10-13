@@ -2,7 +2,6 @@
 
 This is the only virtual space where I will share some opinions about software engineering, cybersecurity (and philosophy maybe)!
 
----
 ### Creations
 
 * [Datashark](https://koromodako.github.io/datashark/): a framework enabling efficient forensic analysis accross operating systems. It gives the ability to forensic team members to work from the system of their choice (Linux, MacOS or Windows) and still be able use tools running exclusively on some systems without having to switch from a VM or a computer to another.
@@ -13,7 +12,6 @@ This is the only virtual space where I will share some opinions about software e
 
 * [Picsou](https://github.com/koromodako/picsou): a Qt-based program that helps me keep track of expenses. It's not beautiful and but it's useful.
 
----
 ### Contributions
 
 * Volatility Framework code migration (Python 2 to Python 3) available [here](https://github.com/koromodako/volatility).
@@ -22,7 +20,6 @@ This is the only virtual space where I will share some opinions about software e
 
 * Now retired [MapIF](https://github.com/LoicTouzard/mapif) was a funny website created to keep track of engineering school friends after we graduated. Precision was voluntarily limited to the city scale to preserve privacy.
 
----
 ### Engineering school projects
 
 Some of INSA projects:
@@ -37,7 +34,6 @@ Some of UCD projects:
  * [UCD-5IF-PACC-MatrixMultOpenMPI](https://github.com/koromodako/UCD-5IF-PACC-MatrixMultOpenMPI) is an implementation of matrix multiplication using OpenMPI.
 
 
----
 ### Must-see Projects
 
 Here, you will find a non-exhaustive list of projects/organisations that I really appreciate:
@@ -68,7 +64,6 @@ Here, you will find a non-exhaustive list of projects/organisations that I reall
 
 And [many others](https://github.com/koromodako?tab=stars).
 
----
 ### Contact
 
 ```
