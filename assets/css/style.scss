@@ -29,6 +29,9 @@ html, body {
 h1, h2, h3, h4, h5, h6, strong {
   color: $light-color;
 }
+p, li {
+  text-align: justify;
+}
 .highlight {
   background-color: $dark-color;
 }
