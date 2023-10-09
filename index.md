@@ -2,67 +2,73 @@
 
 This is the only virtual space where I will share some opinions about software engineering, cybersecurity (and philosophy maybe)!
 
+
 ### Creations
 
-* [Datashark](https://koromodako.github.io/datashark/): a framework enabling efficient forensic analysis accross operating systems. It gives the ability to forensic team members to work from the system of their choice (Linux, MacOS or Windows) and still be able use tools running exclusively on some systems without having to switch from a VM or a computer to another.
+- [mkCTF](https://github.com/koromodako/mkctf) is a framework to enable efficient team work when preparing challenges for a CTF
 
-* [mkCTF](https://github.com/koromodako/mkctf): a framework to enable efficient team work when preparing challenges for a CTF.
+- [aionyphe](https://github.com/koromodako/aionyphe) is a useful library and command line tool to automate [Onyphe](https://www.onyphe.io/) queries 
 
-* [hbsrecover](https://github.com/koromodako/hbsrecover): a tool to recover encrypted files backed up using _QNAP Hybrid Backup Sync_.
+- [marmot](https://github.com/koromodako/marmot) is a secure notification system for multi-level information systems
 
-* [Picsou](https://github.com/koromodako/picsou): a Qt-based program that helps me keep track of expenses. It's not beautiful and but it's useful.
+- [hbsrecover](https://github.com/koromodako/hbsrecover) is a commmand line tool to recover encrypted files backed up using _QNAP Hybrid Backup Sync_
+
+- [Picsou](https://github.com/koromodako/picsou), now retired, a Qt-based program that helps me keep track of expenses. It's not beautiful and but it's useful
+
 
 ### Contributions
 
-* Volatility Framework code migration (Python 2 to Python 3) available [here](https://github.com/koromodako/volatility).
+- Migrated [Google/Timesketch](https://github.com/google/timesketch/releases/tag/20230628) to docker compose V2
 
-* Contributing to INS'hAck Capture The Flag by making challenges for people around the world is a great hobby. Here are the repositories for past editions ([2019](https://github.com/InsecurityAsso/inshack-2019), [2018](https://github.com/InsecurityAsso/inshack-2018), [2017](https://github.com/InsecurityAsso/inshack-2017), [2016](https://github.com/InsecurityAsso/inshack-2016))
+- Volatility Framework code migration (Python 2 to Python 3) available [here](https://github.com/koromodako/volatility)
 
-* Now retired [MapIF](https://github.com/LoicTouzard/mapif) was a funny website created to keep track of engineering school friends after we graduated. Precision was voluntarily limited to the city scale to preserve privacy.
+- Contributing to INS'hAck Capture The Flag by making challenges for people around the world is a great hobby. Here are the repositories for past editions ([2019](https://github.com/InsecurityAsso/inshack-2019), [2018](https://github.com/InsecurityAsso/inshack-2018), [2017](https://github.com/InsecurityAsso/inshack-2017), [2016](https://github.com/InsecurityAsso/inshack-2016))
+
+- Now retired [MapIF](https://github.com/LoicTouzard/mapif) was a funny website created to keep track of engineering school friends after we graduated. Precision was voluntarily limited to the city scale to preserve privacy
+
 
 ### Engineering school projects
 
 Some of INSA projects:
 
- * [INSA-4IF-Raspberry-OS](https://github.com/koromodako/INSA-4IF-Raspberry-OS) is an implementation of a basic OS for RaspberryPi.
- * [INSA-4IF-Prolog-Abalone](https://github.com/koromodako/INSA-4IF-Prolog-Abalone) is an implementation of Abalone game in Prolog with an AI.
- * [INSA-4IF-Lutin-Interpreter](https://github.com/koromodako/INSA-4IF-Lutin-Interpreter) is an implementation of a basic language interpreter.
+ - [INSA-4IF-Raspberry-OS](https://github.com/koromodako/INSA-4IF-Raspberry-OS) is an implementation of a basic OS for RaspberryPi
+ - [INSA-4IF-Prolog-Abalone](https://github.com/koromodako/INSA-4IF-Prolog-Abalone) is an implementation of Abalone game in Prolog with an AI
+ - [INSA-4IF-Lutin-Interpreter](https://github.com/koromodako/INSA-4IF-Lutin-Interpreter) is an implementation of a basic language interpreter
 
 Some of UCD projects:
 
- * [UCD-5IF-AI-Yavalath](https://github.com/koromodako/UCD-5IF-AI-Yavalath) is an implementation of Yavalath game with an IA.
- * [UCD-5IF-PACC-MatrixMultOpenMPI](https://github.com/koromodako/UCD-5IF-PACC-MatrixMultOpenMPI) is an implementation of matrix multiplication using OpenMPI.
+ - [UCD-5IF-AI-Yavalath](https://github.com/koromodako/UCD-5IF-AI-Yavalath) is an implementation of Yavalath game with an IA
+ - [UCD-5IF-PACC-MatrixMultOpenMPI](https://github.com/koromodako/UCD-5IF-PACC-MatrixMultOpenMPI) is an implementation of matrix multiplication using OpenMPI
 
 
 ### Must-see Projects
 
 Here, you will find a non-exhaustive list of projects/organisations that I really appreciate:
 
- * [The Linux Foundation](https://www.linuxfoundation.org/) and [The Open Source Initiative](https://opensource.org/) because **sharing knowledge is vital**!
+ - Sharing knowledge is vital for the computer ecosystem, many thanks to [The Linux Foundation](https://www.linuxfoundation.org/) and [The Open Source Initiative](https://opensource.org/)
  
- * [SignalSpam](https://www.signal-spam.fr/) because **everyone can fight spam**.
+ - High-level is extremely powerful, cross platform and far less time consuming, kudos to [Python](https://www.python.org/)
  
- * [Python](https://www.python.org/) because **high-level** is less time consuming.
+ - Low-level is faster than anything else, thanks to [C](https://devdocs.io/c/), [Rust](https://www.rust-lang.org/) and [CMake](https://cmake.org/)
  
- * [C](https://devdocs.io/c/), [Rust](https://www.rust-lang.org/) and [CMake](https://cmake.org/) because **low-level** can be useful.
+ - Hacking requires creativity and determination, open your chakras looking at [Root-Me](https://root-me.org), [Hack The Box](https://www.hackthebox.eu/) and [Hacktricks](https://book.hacktricks.xyz)
  
- * [Root-Me](https://root-me.org) and [Hack The Box](https://www.hackthebox.eu/) because **hacking requires creativity and determination**.
+ - Documenting is not an option, many thanks to projects making this task a little bit easier, [Markdown](https://www.markdownguide.org/basic-syntax/), [devdocs](https://devdocs.io/), [readthedocs.org](https://readthedocs.org/) and [Sphinx](http://www.sphinx-doc.org/en/stable/)
+
+ - Ads have a considerable impact on the life on Earth, if your product is really good people talk about it, you don't need ads, take a look at [Pi-hole](https://pi-hole.net/) and [NoScript](https://noscript.net/)
  
- * [devdocs](https://devdocs.io/), [readthedocs.org](https://readthedocs.org/) and [Sphinx](http://www.sphinx-doc.org/en/stable/) because **documenting is not an option** (even if it can be tough sometimes).
+ - Privacy is a core foundation of freedom, protect it using [The Tor Project](https://www.torproject.org/), [DuckDuckGo](https://duckduckgo.com/), [RocketChat](https://github.com/RocketChat/Rocket.Chat), [Signal](https://github.com/signalapp) and [Matrix](https://github.com/matrix-org)
  
- * [The Tor Project](https://www.torproject.org/), [DuckDuckGo](https://duckduckgo.com/) and [Qwant](https://lite.qwant.com/) because **privacy should not be neglected**.
- 
- * [uBlock](https://github.com/gorhill/uBlock), [Pi-hole](https://pi-hole.net/) and [NoScript](https://noscript.net/) because **ads are plaguing the Internet** _and certainly not the only way to make money in this world_.
- 
- * [HaveIBeenPwned](https://haveibeenpwned.com/) because **I just want to know if something bad happens**.
- 
- * [Zulip](https://zulipchat.com/) because this is **the best place to chat at the time of writing**.
- 
- * [OpenAPIv3](https://github.com/OAI/OpenAPI-Specification), [Ansible](https://docs.ansible.com/), [Docker](https://www.docker.com/) and [Packer](https://packer.io/) because **boring tasks are meant to be automated**.
+ - Boring administrative tasks are meant to be automated, many thanks to [OpenAPIv3](https://github.com/OAI/OpenAPI-Specification), [Ansible](https://docs.ansible.com/), [Docker](https://www.docker.com/) and [Packer](https://packer.io/)
    
- * [Grafana](https://github.com/grafana/grafana), [Prometheus](https://github.com/prometheus/prometheus), and [ELK](https://www.elastic.co/what-is/elk-stack) for **accessible and painless monitoring**.
+ - Accessible and painless monitoring with [ELK](https://www.elastic.co/what-is/elk-stack), [Grafana](https://github.com/grafana/grafana) and [Prometheus](https://github.com/prometheus/prometheus)
+
+ - Protect your secrets with [KeepassXC](https://keepassxc.org/) and [FIDO](https://fidoalliance.org/)
+ 
+ - Want to know if something bad happens, have a look at [HaveIBeenPwned](https://haveibeenpwned.com/)
 
 And [many others](https://github.com/koromodako?tab=stars).
+
 
 ### Contact
 
